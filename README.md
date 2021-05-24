@@ -18,3 +18,13 @@ Projects of SBU Architecture Laboratory Course - Spring 2021
 - [Single Cycle Processor](https://github.com/KamyabAbedi/ComputerArchitectureLab/tree/main/005%20Single%20Cycle%20Processor)
 #### HW 7
 - [Pipelined Processor](https://github.com/KamyabAbedi/ComputerArchitectureLab/tree/main/006%20Pipelined%20Processor)
+
+## Contributors
+
+-  [Kamyab abedi](https://github.com/Kamyababedi)
+-  [Mohammad Eskini](https://github.com/mreskini)
+-  [Amin Saveh](https://github.com/Aminsaveh)
+
+## License
+
+MIT License, Copyright (c) 2021 Kamyab Abedi (and the gang!)
