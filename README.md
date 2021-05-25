@@ -1,6 +1,5 @@
 # ComputerArchitectureLab
-Projects of SBU Architecture Laboratory Course - Spring 2021
-
+• Projects of Architecture Laboratory Course, Dr. Sepehr Tabrizchi, Shahid Beheshti University.
 #### HW 1
 - [Carry-Lookahead Adder](https://github.com/KamyabAbedi/ComputerArchitectureLab/tree/main/000%20CarryLookAheadAdder%20and%20RippleCarryAdder/Code/CarryLookAheadAdder)
 - [Ripple Carry Adder](https://github.com/KamyabAbedi/ComputerArchitectureLab/tree/main/000%20CarryLookAheadAdder%20and%20RippleCarryAdder/Code/RippleCarryAdder)
